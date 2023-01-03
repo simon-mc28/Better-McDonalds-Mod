@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "better_mcdonalds_mod:lettuce"
+    },
+    {
+      "item": "better_mcdonalds_mod:tomato"
+    }
+  ],
+  "result": {
+    "item": "better_mcdonalds_mod:snack_salad_classic",
+    "count": 1
+  }
+}

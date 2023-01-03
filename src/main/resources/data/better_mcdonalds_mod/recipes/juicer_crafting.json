@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:brick"
+    },
+    "3": {
+      "item": "minecraft:brick"
+    },
+    "4": {
+      "item": "minecraft:brick"
+    },
+    "5": {
+      "item": "minecraft:brick"
+    }
+  },
+  "result": {
+    "item": "better_mcdonalds_mod:juicer",
+    "count": 1
+  }
+}

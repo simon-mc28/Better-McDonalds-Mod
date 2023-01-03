@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:bread"
+    },
+    {
+      "item": "better_mcdonalds_mod:lettuce"
+    },
+    {
+      "item": "better_mcdonalds_mod:tomato"
+    },
+    {
+      "item": "minecraft:cooked_porkchop"
+    },
+    {
+      "item": "better_mcdonalds_mod:cheese"
+    },
+    {
+      "item": "better_mcdonalds_mod:cooked_beef_patty"
+    }
+  ],
+  "result": {
+    "item": "better_mcdonalds_mod:big_tasty_bacon",
+    "count": 1
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "better_mcdonalds_mod:mixing_bowl"
+    },
+    {
+      "item": "minecraft:milk_bucket"
+    },
+    {
+      "tag": "forge:dusts/salt"
+    },
+    {
+      "item": "minecraft:snowball"
+    },
+    {
+      "item": "better_mcdonalds_mod:cocao_powder"
+    }
+  ],
+  "result": {
+    "item": "better_mcdonalds_mod:mc_sundae_chocolate",
+    "count": 1
+  }
+}

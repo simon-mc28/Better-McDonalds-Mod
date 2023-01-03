@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "better_mcdonalds_mod:blocks/lettuce_plant",
+    "particle": "better_mcdonalds_mod:blocks/lettuce_plant"
+  }
+}

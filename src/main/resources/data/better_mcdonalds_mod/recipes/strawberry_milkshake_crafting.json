@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "better_mcdonalds_mod:juicer"
+    },
+    {
+      "item": "minecraft:milk_bucket"
+    },
+    {
+      "item": "better_mcdonalds_mod:strawberry"
+    },
+    {
+      "item": "minecraft:snowball"
+    }
+  ],
+  "result": {
+    "item": "better_mcdonalds_mod:strawberry_milkshake",
+    "count": 1
+  }
+}

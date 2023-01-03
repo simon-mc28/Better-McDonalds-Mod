@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:bread"
+    },
+    {
+      "item": "better_mcdonalds_mod:mayo"
+    },
+    {
+      "item": "better_mcdonalds_mod:lettuce"
+    },
+    {
+      "item": "minecraft:cooked_chicken"
+    }
+  ],
+  "result": {
+    "item": "better_mcdonalds_mod:mc_chicken_classic",
+    "count": 1
+  }
+}

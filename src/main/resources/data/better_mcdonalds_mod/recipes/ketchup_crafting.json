@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "better_mcdonalds_mod:grinder"
+    },
+    {
+      "item": "better_mcdonalds_mod:tomato"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "tag": "forge:dusts/salt"
+    }
+  ],
+  "result": {
+    "item": "better_mcdonalds_mod:ketchup",
+    "count": 1
+  }
+}

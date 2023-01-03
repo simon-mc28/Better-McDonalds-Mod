@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "better_mcdonalds_mod:mc_chicken_classic"
+    },
+    {
+      "item": "better_mcdonalds_mod:fries"
+    },
+    {
+      "item": "better_mcdonalds_mod:chicken_mc_nuggets"
+    },
+    {
+      "item": "better_mcdonalds_mod:coca_cola"
+    }
+  ],
+  "result": {
+    "item": "better_mcdonalds_mod:happy_meal",
+    "count": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:bread"
+    },
+    {
+      "item": "better_mcdonalds_mod:mayo"
+    },
+    {
+      "item": "better_mcdonalds_mod:lettuce"
+    },
+    {
+      "item": "better_mcdonalds_mod:tomato"
+    },
+    {
+      "item": "better_mcdonalds_mod:cheese"
+    },
+    {
+      "item": "better_mcdonalds_mod:cooked_beef_patty"
+    }
+  ],
+  "result": {
+    "item": "better_mcdonalds_mod:hamburger_royal_ts",
+    "count": 1
+  }
+}

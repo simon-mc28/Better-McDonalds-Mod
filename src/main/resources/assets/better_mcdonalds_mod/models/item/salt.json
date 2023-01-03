@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "better_mcdonalds_mod:items/salt"
+  }
+}

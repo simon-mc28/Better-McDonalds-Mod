@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "better_mcdonalds_mod:bakeware"
+    },
+    {
+      "item": "minecraft:potato"
+    },
+    {
+      "tag": "forge:dusts/salt"
+    }
+  ],
+  "result": {
+    "item": "better_mcdonalds_mod:fries",
+    "count": 1
+  }
+}

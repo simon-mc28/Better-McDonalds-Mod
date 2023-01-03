@@ -1,0 +1,14 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "frozen_ocean",
+    "frozen_river",
+    "warm_ocean",
+    "lukewarm_ocean",
+    "ocean",
+    "river",
+    "cold_ocean"
+  ],
+  "features": "better_mcdonalds_mod:salt_ore",
+  "step": "underground_ores"
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:brick"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "minecraft:brick"
+    },
+    "4": {
+      "item": "minecraft:brick"
+    }
+  },
+  "result": {
+    "item": "better_mcdonalds_mod:grinder",
+    "count": 1
+  }
+}
